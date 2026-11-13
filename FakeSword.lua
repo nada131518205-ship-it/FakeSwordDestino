@@ -1,6 +1,6 @@
 local HttpService = game:GetService("HttpService")
 local HWID = game:GetService("RbxAnalyticsService"):GetClientId()
-local BASE = "https://fakesword.nada131518205.workers.dev/?key=DESTINO" -- confira se é o seu endereço real
+local BASE = "https://fakesword.nada131518205.workers.dev/?key=Xk93mPq7zT" -- confira se é o seu endereço real
 local req = (syn and syn.request) or http_request or request
 
 local function post(path, body)
